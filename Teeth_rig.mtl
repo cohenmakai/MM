@@ -1,0 +1,35 @@
+# Blender 3.5.1 MTL File: 'Teeth_rig.blend'
+# www.blender.org
+
+newmtl Gums.001
+Ns 687.293640
+Ka 1.000000 1.000000 1.000000
+Ks 0.586364 0.586364 0.586364
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/BLENDERSTUFF/Gums/Blendertexgums/Gums_BaseColor.png
+map_Bump -bm 1.000000 C:/BLENDERSTUFF/Gums/Blendertexgums/Gums_Normal.png
+
+newmtl Teeth.001
+Ns 764.726318
+Ka 1.000000 1.000000 1.000000
+Ks 0.431818 0.431818 0.431818
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/BLENDERSTUFF/Teeth/NewTeethAlone/Teeth_BaseColor.png
+map_Bump -bm 1.000000 C:/BLENDERSTUFF/Teeth/NewTeethAlone/Teeth_Normal.png
+
+newmtl Tongue
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/BLENDERSTUFF/Tongue/TonBlenderTex/Tongue_BaseColor.png
+map_Ns C:/BLENDERSTUFF/Tongue/TonBlenderTex/Tongue_Roughness.png
+map_Bump -bm 1.000000 C:/BLENDERSTUFF/Tongue/TonBlenderTex/Tongue_Normal.png
